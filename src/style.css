@@ -1,0 +1,15 @@
+.form-block {
+  margin-bottom: 20px;
+}
+
+.age-area {
+  width: 65px;
+}
+
+.input-item {
+  margin-bottom: 10px;
+}
+
+.input-item:last-child {
+  margin-bottom: 0;
+}
